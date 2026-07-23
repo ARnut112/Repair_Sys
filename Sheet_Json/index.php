@@ -692,7 +692,7 @@ if (isset($_GET['export']) && $_GET['export'] == 'csv') {
             <i class="fas fa-list"></i> รายการทั้งหมด
         </a>
         <hr style="border: 1px solid rgba(255,255,255,0.1); margin: 15px 0;">
-        <a href="/repair_system/index.php" class="nav-item">
+        <a href="/repair_sys/index.php" class="nav-item">
             <i class="fas fa-arrow-left"></i> กลับหน้าหลัก
         </a>
     </nav>
